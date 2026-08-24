@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data folders (local only, not tracked in git)
+gg1th_ml_basic/datas_ml/
+
+gg1th_data_analisys_ex_sol/chart_datas/
+gg1th_data_analisys_ex_sol/cleaning_data/
+gg1th_data_analisys_ex_sol/datas/
+gg1th_data_analisys_ex_sol/datas_2/
+gg1th_data_analisys_ex_sol/fonts/
+gg1th_data_analisys_ex_sol/images/
+gg1th_data_analisys_ex_sol/CCTV_result.csv
+gg1th_data_analisys_ex_sol/test.png
+gg1th_data_analisys_ex_sol/hs_err_pid85841.log
