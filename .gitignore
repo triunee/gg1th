@@ -220,6 +220,9 @@ __marimo__/
 # Data folders (local only, not tracked in git)
 gg1th_ml_basic/datas_ml/
 
+# ML model files (local only, not tracked in git)
+gg1th_ml_basic/models/
+
 gg1th_data_analisys_ex_sol/chart_datas/
 gg1th_data_analisys_ex_sol/cleaning_data/
 gg1th_data_analisys_ex_sol/datas/
