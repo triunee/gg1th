@@ -245,3 +245,7 @@ gg1th_data_analisys_ex_sol/images/
 gg1th_data_analisys_ex_sol/CCTV_result.csv
 gg1th_data_analisys_ex_sol/test.png
 gg1th_data_analisys_ex_sol/hs_err_pid85841.log
+
+report_data/
+model/
+datas/
