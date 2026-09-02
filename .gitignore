@@ -249,3 +249,14 @@ gg1th_data_analisys_ex_sol/hs_err_pid85841.log
 report_data/
 model/
 datas/
+
+# DNN/CNN 실습 데이터 (local only, not tracked in git)
+gg1th_dnn_tf_ex/datas_dnn/
+gg1th_dnn_tf_ex/image_data/
+gg1th_dnn_tf_ex/images/
+
+gg1th_dnn_tf_ex/best_glaucoma_effnetv2s.keras
+gg1th_dnn_tf_ex/best_glaucoma_resnet50.keras
+gg1th_dnn_tf_ex/best_glaucoma.keras
+
+gg1th_dnn_tf_ex/glaucoma_thresholds.npy
