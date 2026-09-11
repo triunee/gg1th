@@ -260,3 +260,5 @@ gg1th_dnn_tf_ex/best_glaucoma_resnet50.keras
 gg1th_dnn_tf_ex/best_glaucoma.keras
 
 gg1th_dnn_tf_ex/glaucoma_thresholds.npy
+
+gg1th_hf_pytorch/transformer_ex/transformer_core2.ipynb
