@@ -47,3 +47,11 @@ torchaudio = [
 name = "pytorch-cu128"
 url = "https://download.pytorch.org/whl/cu128"
 explicit = true
+
+[tool.uv]
+# torch's cu128 wheel pins nvidia-cublas-cu12==12.8.4.1, which has a known
+# regression causing CUBLAS_STATUS_INVALID_VALUE in cublasGemmEx
+# (https://github.com/pytorch/pytorch/issues/174949). Force a fixed version.
+override-dependencies = [
+    "nvidia-cublas-cu12>=12.9.1.4",
+]
