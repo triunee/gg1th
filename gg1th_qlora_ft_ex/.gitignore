@@ -1,5 +1,6 @@
 output/
 outputs/
+wandb/
 docs_임시/
 .claude/
 .ipynb_checkpoints/
